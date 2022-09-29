@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MuhammadAfifRizqon/form/static/css/main.37890953.css",
+    "main.js": "/MuhammadAfifRizqon/form/static/js/main.f605bb8c.js",
+    "static/js/787.aeb39de0.chunk.js": "/MuhammadAfifRizqon/form/static/js/787.aeb39de0.chunk.js",
+    "static/media/Instagram.png": "/MuhammadAfifRizqon/form/static/media/Instagram.f118fcdb83a990f6e72c.png",
+    "static/media/Twitter.png": "/MuhammadAfifRizqon/form/static/media/Twitter.bd8d7d82f5640a4d413f.png",
+    "static/media/Facebook.png": "/MuhammadAfifRizqon/form/static/media/Facebook.9eb4ae5d56062f8d4d31.png",
+    "index.html": "/MuhammadAfifRizqon/form/index.html",
+    "main.37890953.css.map": "/MuhammadAfifRizqon/form/static/css/main.37890953.css.map",
+    "main.f605bb8c.js.map": "/MuhammadAfifRizqon/form/static/js/main.f605bb8c.js.map",
+    "787.aeb39de0.chunk.js.map": "/MuhammadAfifRizqon/form/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37890953.css",
+    "static/js/main.f605bb8c.js"
+  ]
+}
